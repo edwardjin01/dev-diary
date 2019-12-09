@@ -2,7 +2,23 @@
 title: 'Refactor payment form'
 tags: ["react", ]
 published: true
-date: '2019-12-03'
+date: '2019-12-09'
 ---
 
-I refactored payment form today.
+Some rules to write React component:
+<br>
+
+Bad
+```
+<div>
+  <Article></Article>
+<div>
+```
+<br>
+
+Good
+```
+<ArticleWrapper>
+  <Article></Article>
+</ArticleWrapper>
+```
