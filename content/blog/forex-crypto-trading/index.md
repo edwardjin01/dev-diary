@@ -1,5 +1,5 @@
 ---
-title: 'English Grammar Summary'
+title: 'Started trading journal in 2020'
 tags: ["forex", "crypto", 'trading']
 published: true
 date: '2020-01-06'
