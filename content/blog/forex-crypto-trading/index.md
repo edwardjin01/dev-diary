@@ -9,3 +9,5 @@ Here is my trading journal site. I will practice "Your Trading Coach" trading me
 https://www.tradingview.com/u/edwardjin01/#published-charts
 
 https://www.tradingview.com/x/IgYLdiSj
+
+https://www.tradingview.com/x/EE9JE1B3
