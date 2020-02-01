@@ -11,3 +11,8 @@ https://www.tradingview.com/u/edwardjin01/#published-charts
 https://www.tradingview.com/x/IgYLdiSj
 
 https://www.tradingview.com/x/EE9JE1B3
+
+https://www.tradingview.com/x/IajJpzdu
+
+https://www.tradingview.com/x/wxP5fFO2
+
