@@ -1,20 +1,20 @@
 "use strict"
 
 module.exports = {
-  url: "https://edwardjin.netlify.com",
+  url: "https://videvv.netlify.com",
   title: "Developer Diary",
   tagline: "Developer",
-  copyright: "© 2019 edwardjin, All rights reserved",
+  copyright: "© 2019 edward, All rights reserved",
   author: {
-    name: "Edward Jin",
+    name: "Edward",
     bio: "Self-taught web developer",
     contacts: {
       linkedin: "https://www.linkedin.com/in/vi-tran-a95a59166/",
-      github: "https://github.com/edwardjin01",
+      github: "https://github.com/videvv",
       stackoverflow:
         "https://stackoverflow.com/users/9538946/edward-t",
       freecodecamp: 'https://www.freecodecamp.org/edwardjin01',
-      twitter: "https://twitter.com/edwardjin11",
+      twitter: "https://twitter.com/videv93",
     },
   },
   labels: [
